@@ -51,7 +51,7 @@ Several issues were found and addressed:
 
 **Cumulative 3-Day Conversion by Network**
 
-![]()
+![](output/CummulativeConversionRate_4.png)
 
 **3-Day Conversion Rate Comparison per Network**
 
@@ -62,6 +62,7 @@ Several issues were found and addressed:
 ![](output/ConversionRate_31.png) 
 
 **Cumulative Conversion to Day 30**
+![](output/CummulativeConversionRate_31.png)
 
 ---
 
