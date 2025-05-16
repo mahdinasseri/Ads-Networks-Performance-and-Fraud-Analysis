@@ -132,4 +132,4 @@ Several issues were found and addressed:
 
 ![](output/2.png)
 
-![](output/2.png)
+![](output/3.png)
