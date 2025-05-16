@@ -4,7 +4,7 @@
 
 ---
 
-Read (Challenge description)[challenge.md]
+Read [Challenge description](challenge.md)
 
 ## **Challenge Response**
 
