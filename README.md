@@ -55,7 +55,7 @@ Several issues were found and addressed:
 
 **3-Day Conversion Rate Comparison per Network**
 
-![output/instant_conversion_rate_30.png]
+![](output/instant_conversion_rate_30.png)
 
 **Daily Independent Conversion Rates**
 
