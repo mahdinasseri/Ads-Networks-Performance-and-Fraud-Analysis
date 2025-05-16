@@ -51,13 +51,15 @@ Several issues were found and addressed:
 
 **Cumulative 3-Day Conversion by Network**
 
-!['output/']
+![]()
 
 **3-Day Conversion Rate Comparison per Network**
 
 ![](output/instant_conversion_rate_30.png)
 
 **Daily Independent Conversion Rates**
+
+![](output/Conversion Rate_31.png) 
 
 **Cumulative Conversion to Day 30**
 
