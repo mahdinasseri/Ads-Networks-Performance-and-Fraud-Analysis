@@ -50,9 +50,11 @@ Several issues were found and addressed:
   * Lowest 3-day and 30-day conversion rates.
 
 **Cumulative 3-Day Conversion by Network**
+
 !['output/']
 
 **3-Day Conversion Rate Comparison per Network**
+
 !['output/instant_conversion_rate_30.png']
 
 **Daily Independent Conversion Rates**
