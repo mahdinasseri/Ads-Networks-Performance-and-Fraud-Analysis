@@ -84,11 +84,15 @@ Several issues were found and addressed:
 * \~64% of active users remained active during the 30-day window.
 * Specifically, **7.5%** of all users were still active on **Day 30**.
 
-### **Charts Used:**
+**Cumulative Retention Curve – 30 Days**
+![](output/CummulativeRetentionRate_31.png)
 
-1. **Cumulative Retention Curve – 30 Days**
-2. **Daily Retention Curve**
-3. **LTV Curve (Average Events per User)**
+**Daily Retention Curve**
+![](output/RetentionRate_31.png)
+
+**LTV Curve (Average Events per User)**
+
+![](output/LifeTimeValue(eventperuser)_31.png)
 
 ---
 
@@ -124,6 +128,4 @@ Several issues were found and addressed:
 * **High rate of installs from Tapsell without any events within 30 days.**
 * These installs likely indicate **bot-driven or fraudulent activity**.
 
----
-
-If you’d like, I can also generate visuals or help structure this into a Python notebook for further analysis or presentation.
+![](output/)
