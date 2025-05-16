@@ -59,7 +59,7 @@ Several issues were found and addressed:
 
 **Daily Independent Conversion Rates**
 
-![](output/Conversion Rate_31.png) 
+![](output/ConversionRate_31.png) 
 
 **Cumulative Conversion to Day 30**
 
