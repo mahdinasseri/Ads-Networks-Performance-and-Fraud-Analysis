@@ -1,4 +1,4 @@
-# Ads-Networks-Performance-and-Fraud-Analysis ** – CafeBazaar**
+# Ads-Networks-Performance-and-Fraud-Analysis – CafeBazaar
 
 📅 Mehr 1398 (October 2019)
 
@@ -128,4 +128,8 @@ Several issues were found and addressed:
 * **High rate of installs from Tapsell without any events within 30 days.**
 * These installs likely indicate **bot-driven or fraudulent activity**.
 
-![](output/)
+![](output/1.png)
+
+![](output/2.png)
+
+![](output/2.png)
